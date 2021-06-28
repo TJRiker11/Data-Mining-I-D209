@@ -6,6 +6,7 @@ Part I: Research Question
 
 A.  Describe the purpose of this data mining report by doing the following:
 
+
 1.  Propose one question relevant to a real-world organizational situation that you will answer using one of the following classification methods:
 
 •  k-nearest neighbor (KNN)
